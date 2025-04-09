@@ -1,3 +1,19 @@
 https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge
 
 data link : https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge/data
+
+
+Résumé (Summary) :
+Estimation du volume des racines du manioc à l'aide de la vision par ordinateur et de l'apprentissage automatique
+
+Description (Description) :
+Ce projet vise à estimer le volume des racines de différentes variétés de manioc à l'aide de techniques avancées de vision par ordinateur et d'apprentissage automatique. Le manioc est une culture essentielle dans de nombreux pays africains, et estimer le volume des racines est crucial pour optimiser les rendements agricoles. Les méthodes traditionnelles d'estimation de volume sont souvent invasives et laborieuses, d'où la nécessité de solutions non destructives.
+
+Le projet utilise un ensemble d'images des racines du manioc à différents stades de croissance pour développer un modèle de machine learning qui peut estimer avec précision le volume des racines. Ces images sont obtenues à partir de scans des racines à différentes profondeurs, offrant ainsi une approche innovante pour mesurer le volume sans endommager les plantes. L’objectif final est d'améliorer les pratiques agricoles et d'aider les agriculteurs à maximiser la production de manioc tout en répondant aux défis de sécurité alimentaire en Afrique.
+
+
+
+
+Technologies utilisées : Vision par ordinateur, Machine Learning, Python, OpenCV, TensorFlow (ou autres).
+
+But de la compétition : Améliorer la précision des estimations de volume des racines du manioc afin de contribuer à une meilleure gestion des cultures.
